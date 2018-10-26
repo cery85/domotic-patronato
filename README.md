@@ -11,14 +11,14 @@ L'attuazione dell'impianto avviene tramite il servizio cloud di OpenHab, su una 
 ### Stato del progetto
 Il primo prototipo funziona, lo sviluppo è concluso, il progetto è stato di carattere didattico e il corso è terminato. Il repository quindi non è più mantenuto.
 
-## Hardware
+## ```Hardware```
 BOM (Bill of materials):  
 * Raspberry Pi 3B+  
 * Modulo relè optoisolato, con il numero di canali necessari  
 * Jumper Dupont  
 * Un pulsante 6x6mm  
 
-## Software
+##  ```Software```
 Istruzioni per l'installazione:  
 
 1. Installare openhabian seguendo la [guida ufficiale](https://www.openhab.org/docs/installation/openhabian.html#quick-start)  
