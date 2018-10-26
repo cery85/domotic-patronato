@@ -8,6 +8,9 @@ L'attuazione dell'impianto avviene tramite il servizio cloud di OpenHab, su una 
 
 ![Openhab screenshot](https://image.ibb.co/eoFCVq/openhab-screen.png)
 
+### Stato del progetto
+Il primo prototipo funziona, lo sviluppo è concluso, il progetto è stato di carattere didattico e il corso è terminato. Il repository quindi non è più mantenuto.
+
 ## Hardware
 BOM (Bill of materials):  
 * Raspberry Pi 3B+  
